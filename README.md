@@ -1,4 +1,4 @@
-// you can try usName and pass options https://dummyjson.com/users
+// you can try usname and pass options https://dummyjson.com/users
 
 
 ![Screenshot_20240930_205120_AppForRetrofit](https://github.com/user-attachments/assets/789fa200-ac48-4081-b54a-970461c2461e)
